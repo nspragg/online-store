@@ -8,9 +8,6 @@
 npm install --save @ibl/online-store
 ```
 
-## Rules
-
-
 ## Test
 
 ```
